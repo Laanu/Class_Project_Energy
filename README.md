@@ -8,7 +8,10 @@
     - Daniel Stroe
 
 ## Project Description:
-    Future of energy is constantly changing, with interest in renewable energy option increasing and potential decrease of interest in non-renewable options.  Our group project will focus on the realistic projection of renewable energy takeover from non-renewable by analyzing energy demands, production and political regulation with the end goal of identifying stock options that will be \ profitable in each sector.  As well as when one of the sector (renewable vs non renewable) will take over.
+    - Future of energy is constantly changing, with interest in renewable energy option increasing and potential decrease of interest in non-renewable options.  
+    - Our group project will focus on the realistic projection of renewable energy takeover from non-renewable by analyzing energy demands, 
+    - production and political regulation with the end goal of identifying stock options that will be \ profitable in each sector.  
+    - As well as when one of the sector (renewable vs non renewable) will take over.
 
 
 ## Research Questions:
