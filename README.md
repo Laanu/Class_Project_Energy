@@ -23,11 +23,28 @@
     - EIA.gov (energy data)
     - API.org (Oil and Gas data)
     - Data.gov (potentially for political and regulatory data)
+    - Kaggle.com (Renewable energy)
 ## Task Breakdown:
-    - Proposal approval
-    - Dataset collection/API
+    - Proposal 
+    Lead: Laanu
+    - Dataset collection/API 
+        - Laanu
+        - Daniel
+        - Elaine
+        - Christian
     - Dataset clean-up and documentation
+        lead: Christian with each member contributing
     - New Python library (geopandas, pyfolio)
+        - Laanu
+        - Daniel
+        - Elaine
+        - Christian
     - Visualization
+        lead: Elaine with each member contributing 
     - Final analysis
+        - Laanu
+        - Daniel
+        - Elaine
+        - Christian
     - README.md containing the project introduction, visualization and summary/finding
+        Lead: Laanu
