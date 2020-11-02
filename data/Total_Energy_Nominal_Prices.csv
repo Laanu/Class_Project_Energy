@@ -1,7 +1,3 @@
-Total Energy Nominal Prices (Case Reference case)
-https://www.eia.gov/outlooks/aeo/data/browser/#/?id=1-AEO2020&region=0-0&cases=ref2020&start=2018&end=2050&f=A&linechart=ref2020-d112119a.52-1-AEO2020~ref2020-d112119a.53-1-AEO2020~ref2020-d112119a.54-1-AEO2020~ref2020-d112119a.55-1-AEO2020~ref2020-d112119a.56-1-AEO2020~ref2020-d112119a.57-1-AEO2020~ref2020-d112119a.58-1-AEO2020&map=&sourcekey=1
-11:02:37 GMT-0500 (CDT)
-Source: U.S. Energy Information Administration
 Year,Brent (nom $/b) nom $/b,West Texas Intermediate (nom $/b) nom $/b,Gas Price at Henry Hub (nom $/MMBtu) nom $/MMBtu,Coal at Minemouth (nom $/ton) nom $/ton,Coal Minemouth (nom $/MMBtu) nom $/MMBtu,Delivered Coal (nom $/MMBtu) nom $/MMBtu,Electricity (nom cents/kWh) nom cents/kWh
 2050,214.277344,205.581665,7.539873,77.163956,3.645,4.360555,20.21261
 2049,206.792648,198.653381,7.266372,75.155357,3.549152,4.254279,19.787699
