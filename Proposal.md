@@ -17,7 +17,7 @@
 ## Research Questions:
     1.) Future stock performance comparison across renewable and non-renewable energy sector
     2.) Is it actually feasible to use mostly renewable energy?
-    3.) Political and regulation impact on these stock performance
+    3.) How does renewable and non-renewable energy perform compared to the overall stock market
 
 ## Dataset Sources:
     - EIA.gov (energy data)
